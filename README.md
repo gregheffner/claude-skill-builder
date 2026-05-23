@@ -63,6 +63,10 @@ You'll get back a complete `.claude/skills/cron-lint-manifests/SKILL.md` (or wha
 - `skill-builder-agent.py` — the Claude Agent SDK app. ~120 lines, one file, no magic.
 - `skill-builder.py` — a non-agent scaffolder for when you already know exactly what you want and just need the boilerplate written.
 
+## Examples
+
+A working skill produced by this tool lives in [`examples/youtube-transcript/`](examples/youtube-transcript/SKILL.md) — fetch YouTube transcripts from a URL or search query. Generated from a single sentence; ready to drop into `.claude/skills/`.
+
 ## Philosophy
 
 Build in public. Automate the boring stuff. Share what works (and what doesn't).

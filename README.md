@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="social-preview.png" alt="Skill Builder" width="800"/>
+</p>
+
 <div align="center">
 
 # ⚡ Skill Builder
